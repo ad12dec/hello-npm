@@ -1,2 +1,2 @@
-var helloNPM = () => "Hello NPM"
+var helloNPM = () => "Hello NPM. I am new Release"
 export default helloNPM
